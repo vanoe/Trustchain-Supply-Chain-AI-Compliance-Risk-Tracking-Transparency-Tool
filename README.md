@@ -14,6 +14,7 @@ With its intuitive design and powerful insights, Trustchain supports more transp
 
 ## 📊 Scheme
 
+<img src="./img/img-1.png" alt="Scheme">
 
 ---
 
