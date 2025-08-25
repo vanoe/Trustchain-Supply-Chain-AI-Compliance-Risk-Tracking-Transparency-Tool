@@ -74,6 +74,31 @@ Trustchain goes beyond traditional supply chain tools by offering:
 
 ---
 
+## Screenshots of the Interface
+
+<table>
+    <tbody>
+        <tr>
+            <td><img src="./img/img-2.png" alt="image"></td>
+            <td><img src="./img/img-3.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-4.png" alt="image"></td>
+            <td><img src="./img/img-5.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-6.png" alt="image"></td>
+            <td><img src="./img/img-7.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-8.png" alt="image"></td>
+            <td><img src="./img/img-9.png" alt="image"></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## 🎥 Demo
 
 ---
