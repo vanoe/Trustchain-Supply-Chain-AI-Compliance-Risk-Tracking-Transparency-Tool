@@ -101,4 +101,69 @@ Trustchain goes beyond traditional supply chain tools by offering:
 
 ## 🎥 Demo
 
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/6483802a-865b-40fe-86d6-85aa6d03c666" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/ecf033ad-9f5f-4cae-b677-e6b370e7ad55" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/e5ac2eaa-f4a4-49be-a634-c01845e576c3" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/9c146904-8028-489b-bf28-06444b630f45" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/29a3c820-efe0-46f3-93d1-f1b74cddd750" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/4c19f65a-19c3-41a9-a73b-c0355187358d" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/3bf6a4ec-dc5c-425f-a446-bccc912e14a1" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/d54be39b-e2a5-4ea1-928d-daaee0d16622" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/c414e642-0e93-4447-b4cb-813d43dba131" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/26f75015-4614-46cf-8bfc-59b883703e49" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ---
